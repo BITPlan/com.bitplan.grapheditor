@@ -2,6 +2,8 @@
 language: java
 # make sure things keep working see http://wiki.bitplan.com/index.php/Java8
 jdk: openjdk8
+# we need jgraphx which has no proper maven central support
+# so we use our own fork to get a current version
 before_install:
   - git clone https://github.com/BITPlan/jgraphx
   - cd jgraphx

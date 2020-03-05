@@ -1,5 +1,6 @@
 ### com.bitplan.grapheditor
 [Generic graph editor for Tinkerpop provided Graphs](http://wiki.bitplan.com/index.php/Com.bitplan.grapheditor)
+[![Join the chat at https://gitter.im/com-bitplan-grapheditor/community](https://badges.gitter.im/com-bitplan-grapheditor/community.svg)](https://gitter.im/com-bitplan-grapheditor/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
  [![Travis (.org)](https://img.shields.io/travis/BITPlan/com.bitplan.grapheditor.svg)](https://travis-ci.org/BITPlan/com.bitplan.grapheditor)
  [![Maven Central](https://img.shields.io/maven-central/v/com.bitplan/com.bitplan.grapheditor.svg)](https://search.maven.org/artifact/com.bitplan/com.bitplan.grapheditor/0.0.1/jar)
