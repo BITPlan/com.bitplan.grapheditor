@@ -39,6 +39,12 @@
 			<groupId>args4j</groupId>
 			<artifactId>args4j</artifactId>
 		</dependency>
+		<!-- https://github.com/vlsi/jgraphx-publish -->
+		<dependency>
+			<groupId>com.mxgraph</groupId>
+			<artifactId>jgraphx</artifactId>
+			<version>4.1.0</version>
+		</dependency>
 	</dependencies>
 	<build>
 		<plugins>
