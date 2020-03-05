@@ -3,9 +3,9 @@ language: java
 # make sure things keep working see http://wiki.bitplan.com/index.php/Java8
 jdk: openjdk8
 before_install:
-  git clone https://github.com/BITPlan/jgraphx
-  cd jgraphx
-  mvn install -Dgpg.skip=true
-  cd ..
+  - git clone https://github.com/BITPlan/jgraphx
+  - cd jgraphx
+  - mvn install -Dgpg.skip=true
+  - cd ..
 # switch off gpg handling
 install: mvn install -Dgpg.skip=true
