@@ -18,7 +18,7 @@
 
  Maven dependency
  ```xml
- <!-- Java API for AVM FritzBox Homeautomation http://wiki.bitplan.com/index.php/Com.bitplan.grapheditor -->
+ <!-- Grapheditor -->
  <dependency>
    <groupId>com.bitplan</groupId>
    <artifactId>com.bitplan.grapheditor</artifactId>
